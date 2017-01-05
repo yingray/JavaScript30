@@ -1,10 +1,12 @@
 ![](https://javascript30.com/images/JS3-social-share.png)
 
-# JavaScript30
+# JavaScript 30天挑戰計畫
 
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge. 
+我的純JS30挑戰，fork Wes Bos的Javascript30 Starter Files + Completed solutions.
 
-Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
+完成進度： 1/30
+
+課程網址： [https://JavaScript30.com](https://JavaScript30.com)
 
 ## Community #JavaScript30 Content
 
