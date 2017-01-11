@@ -4,7 +4,7 @@
 
 我的純JS30挑戰，fork Wes Bos的Javascript30 Starter Files + Completed solutions.
 
-完成進度： 1/30
+完成進度： 2/30
 
 課程網址： [https://JavaScript30.com](https://JavaScript30.com)
 
